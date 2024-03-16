@@ -26,7 +26,6 @@ function App() {
             <TodoList key={i} index={i} item={listItem} deleteItem={deleteListItem}/>
 
           )
-          
         })
       }
     </div>
